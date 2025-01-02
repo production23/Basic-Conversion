@@ -104,5 +104,5 @@ Contributions are welcome! Please submit a pull request or open an issue for bug
 
 For questions or support, please contact:
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
+- **Author:** Aram Keledjian
+- **Email:** production23@live.com
